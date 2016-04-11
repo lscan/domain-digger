@@ -10,7 +10,8 @@
 }
 body {
   width: 500px;
-  background: url('http://cats.antarcticastartshere.net/issue_04/spacecat_02.jpg');
+  /*background: url('http://cats.antarcticastartshere.net/issue_04/spacecat_02.jpg');*/
+  background: url('spacecat.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   margin: 20px;
@@ -62,6 +63,10 @@ body {
   -webkit-animation-name: bluePulse;
   -webkit-animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
+}
+.auth {
+  font-size: .9em;
+  top: 10px;
 }
 .message-container {
   background-color: rgba(255,255,255,.8);
