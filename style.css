@@ -10,15 +10,14 @@
 }
 body {
   width: 500px;
-  /*background: url('http://cats.antarcticastartshere.net/issue_04/spacecat_02.jpg');*/
-  background: url('spacecat.jpg');
+  background: url('grumpycat.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   margin: 20px;
   font-size: 16px;
 }
 .copy-container {
-  background-color: rgba(255,255,255,.8);
+  background-color: rgba(255,255,255,.6);
   padding: 20px 10px;
   border-radius: 5px;
 }
